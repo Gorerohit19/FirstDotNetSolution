@@ -4,6 +4,7 @@
     <ProjectReference Include="..\CataLogLib\CataLogLib.csproj" />
     <ProjectReference Include="..\OrderProcessingLib\OrderProcessingLib.csproj" />
     <ProjectReference Include="..\CRMLib\CRMLib.csproj" />
+    <ProjectReference Include="..\MySqlConnectivityLib\MySqlConnectivityLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
